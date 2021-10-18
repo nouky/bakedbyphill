@@ -15,7 +15,7 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="navbar-brand">
             <ul class="nav navbar-nav page-scroll navbar-right">
-                <li><a href="">TEST - 123</a></li>
+                <li><a href="">TEST - 456</a></li>
                 <li><a href="#page-top">Home</a></li>
                 <li><a href="#about">About us</a></li>
                 <li class="dropdown">
