@@ -38,8 +38,8 @@ include_once "php/elements.php";
     <link rel="stylesheet" href="css/custom.css">
     <link rel="stylesheet" href="css/modal.css">
     <!-- Favicons-->
-    <link rel="apple-touch-icon" sizes="72x72" href="apple-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="img/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="img/apple-icon-114x114.png">
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 </head>
 <body id="page-top" data-spy="scroll" data-target=".navbar-custom">
