@@ -17,17 +17,23 @@
             <div class="col-lg-7 col-md-7">
                 <h3>You can't buy happiness <br> but you can buy CAKE</h3>
                 <h4><small>And that's kind of the same thing!</small></h4>
-                <p>Placerat a ultricies a, posuere a nibh. Fusce mollis imperdiet interdum donec eget metus auguen unc
-                    vel mauris ultricies, vest ibulum orci eget,Fusce mollis imperdiet interdum donec eget metus auguen unc vel
-                    lorem ispuet Ibu lum orci eget, viverra elit liquam erat volut pat phas ellus ac sodales Lorem ipsum dolor
-                    sit amet, consectetur adipisicing elit uasi.
+                <p>
+                    Baked by Phill will offer varieties of breath-taking cakes, like chocolate cake, vanilla cake, red
+                    velvet cake, oreo cake, cashew cake, prune cake, pistachio cake, ponche crema cake all from the
+                    freshest ingredients. We make cakes for birthdays, engagements, weddings, anniversaries,
+                    christenings and any special event you may be celebrating.
+                    </p>
+                <p>We also make snacks, cupcakes,
+                    cheesecakes and so much more. Our company will provide freshly baked cakes and products all times
+                    during business operations. We are committed to seeing your ideas blossom into outstanding cakes,
+                    and will work with your budget without compromising on the great quality we are known for.
                 </p>
                 <!-- Button -->
                 <div class="page-scroll">
                     <a class="btn" href="#contact">
                         <div class="btn-line"></div>
                         <div class="btn-line btn-line-shift"></div>
-                        Contact us Today
+                        Place order
                     </a>
                 </div>
                 <!-- /page-scroll-->
@@ -35,164 +41,7 @@
             <!-- /col-lg-7 -->
         </div>
         <!-- /row -->
-        <div class="row margin1">
-            <!-- carousel -->
-            <div class="owl-carousel" id="owl-services">
-                <!-- Box 1 -->
-                <div class="col-xs-12">
-                    <div class="box_icon">
-                        <div class="icon">
-                            <!-- image -->
-                            <div class="image">
-                                <img class="img-responsive img-circle" src="img/service1.jpg" alt="">
-                            </div>
-                            <div class="info">
-                                <h5>Weddings</h5>
-                                <p>Lorem Ipsuet ipsu Ibu lum orci eget, viverra elit. Aliquam erat volut pat phas ellus ac sodales felis tiam non.</p>
-                                <!-- Button -->
-                                <div class="page-scroll">
-                                    <a class="btn" href="#contact">
-                                        <div class="btn-line"></div>
-                                        <div class="btn-line btn-line-shift"></div>
-                                        More
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- /box_icon -->
-                </div>
-                <!-- /col-xs-12 ends -->
-                <!-- Box 2 -->
-                <div class="col-xs-12">
-                    <div class="box_icon">
-                        <div class="icon">
-                            <!-- image -->
-                            <div class="image">
-                                <img class="img-responsive img-circle" src="img/service2.jpg" alt="">
-                            </div>
-                            <div class="info">
-                                <h5>Corporate Events</h5>
-                                <p>Lorem Ipsuet ipsu Ibu lum orci eget, viverra elit. Aliquam erat volut pat phas ellus ac sodales felis tiam non.</p>
-                                <!-- Button -->
-                                <div class="page-scroll">
-                                    <a class="btn" href="#contact">
-                                        <div class="btn-line"></div>
-                                        <div class="btn-line btn-line-shift"></div>
-                                        More
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- /box_icon -->
-                </div>
-                <!-- /col-xs-12 ends -->
-                <!-- Box 3 -->
-                <div class="col-xs-12">
-                    <div class="box_icon">
-                        <div class="icon">
-                            <!-- image -->
-                            <div class="image">
-                                <img class="img-responsive img-circle" src="img/service3.jpg" alt="">
-                            </div>
-                            <div class="info">
-                                <h5>Birthdays</h5>
-                                <p>Lorem Ipsuet ipsu Ibu lum orci eget, viverra elit. Aliquam erat volut pat phas ellus ac sodales felis tiam non.</p>
-                                <!-- Button -->
-                                <!-- Button -->
-                                <div class="page-scroll">
-                                    <a class="btn" href="#contact">
-                                        <div class="btn-line"></div>
-                                        <div class="btn-line btn-line-shift"></div>
-                                        More
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- /box_icon -->
-                </div>
-                <!-- /col-xs-12 ends -->
-                <!-- Box 4 -->
-                <div class="col-xs-12">
-                    <div class="box_icon">
-                        <div class="icon">
-                            <!-- image -->
-                            <div class="image">
-                                <img class="img-responsive img-circle" src="img/service4.jpg" alt="">
-                            </div>
-                            <div class="info">
-                                <h5>Gourmet</h5>
-                                <p>Lorem Ipsuet ipsu Ibu lum orci eget, viverra elit. Aliquam erat volut pat phas ellus ac sodales felis tiam non.</p>
-                                <!-- Button -->
-                                <div class="page-scroll">
-                                    <a class="btn" href="#contact">
-                                        <div class="btn-line"></div>
-                                        <div class="btn-line btn-line-shift"></div>
-                                        More
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- /box_icon -->
-                </div>
-                <!-- /col-xs-12 ends -->
-                <!-- Box 5 -->
-                <div class="col-xs-12">
-                    <div class="box_icon">
-                        <div class="icon">
-                            <!-- image -->
-                            <div class="image">
-                                <img class="img-responsive img-circle" src="img/service5.jpg" alt="">
-                            </div>
-                            <div class="info">
-                                <h5>Healthy Options</h5>
-                                <p>Lorem Ipsuet ipsu Ibu lum orci eget, viverra elit. Aliquam erat volut pat phas ellus ac sodales felis tiam non.</p>
-                                <!-- Button -->
-                                <div class="page-scroll">
-                                    <a class="btn" href="#contact">
-                                        <div class="btn-line"></div>
-                                        <div class="btn-line btn-line-shift"></div>
-                                        More
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- /box_icon -->
-                </div>
-                <!-- /col-xs-12 ends -->
-                <!-- Box 6 -->
-                <div class="col-xs-12">
-                    <div class="box_icon">
-                        <div class="icon">
-                            <!-- image -->
-                            <div class="image">
-                                <img class="img-responsive img-circle" src="img/service6.jpg" alt="">
-                            </div>
-                            <div class="info">
-                                <h5>Pastries</h5>
-                                <p>Lorem Ipsuet ipsu Ibu lum orci eget, viverra elit. Aliquam erat volut pat phas ellus ac sodales felis tiam non.</p>
-                                <!-- Button -->
-                                <div class="page-scroll">
-                                    <a class="btn" href="#contact">
-                                        <div class="btn-line"></div>
-                                        <div class="btn-line btn-line-shift"></div>
-                                        More
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- /box_icon -->
-                </div>
-                <!-- /col-xs-12 ends -->
-            </div>
-            <!-- /carousel -->
-        </div>
-        <!-- /row -->
+
     </div>
     <!-- /container-->
 </section>

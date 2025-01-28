@@ -36,10 +36,10 @@
                         </div>
                         <div class="testimonial-content">
                             <p class="description">
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sed accumsan diam. Suspendisse molestie nibh at tempor mollis. Integer aliquet facilisis felis, ac porta est cursus et. Vestibulum sollicitudin nisl ut urna egestas faucibus.
+                                &ldquo;Hey mami bon, hopi bon mes e bolo tabata. Sin gañabu ayera nos tur a baha riba dje mesora, bolo a kaba, master mes. E bolo a keda hopi nèchi asina tòg, Danki ma. Tur ora ku mi mester bolo, serka bo mi ta bin.&rdquo;
                             </p>
-                            <h3 class="testimonial-title">Lana King</h3>
-                            <small class="post">/ TV Star</small>
+                            <h3 class="testimonial-title">Birthday Cake</h3>
+                            <!--<small class="post">/ TV Star</small>-->
                         </div>
                     </div>
                     <!-- Testimonial 2 -->
@@ -49,10 +49,10 @@
                         </div>
                         <div class="testimonial-content">
                             <p class="description">
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sed accumsan diam. Suspendisse molestie nibh at tempor mollis. Integer aliquet facilisis felis, ac porta est cursus et. Vestibulum sollicitudin nisl ut urna egestas faucibus.
+                                &ldquo;Bonochi Philles, tur kos tabata masha dushi. Awor ey nos a saboria nan. Keep up the goodwork. Felis anochi.&rdquo;
                             </p>
-                            <h3 class="testimonial-title">Jonas Smith</h3>
-                            <small class="post">/ Chef</small>
+                            <h3 class="testimonial-title">Snacks</h3>
+                            <!--<small class="post">/ Chef</small>-->
                         </div>
                     </div>
                     <!-- Testimonial 3 -->
@@ -62,10 +62,23 @@
                         </div>
                         <div class="testimonial-content">
                             <p class="description">
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sed accumsan diam. Suspendisse molestie nibh at tempor mollis. Integer aliquet facilisis felis, ac porta est cursus et. Vestibulum sollicitudin nisl ut urna egestas faucibus.
+                                &ldquo;MASHAAA MASHAAAA DANKIII PA E BOLOO. E bala oronan den dje a echtt hasiee mass bunitaaa di loke na prinsipio ma pidi pe, ku tbt djis simpel. Dios bendishona bo mannan pa bo negoshi sigi krese tambe.&rdquo;
                             </p>
-                            <h3 class="testimonial-title">Maria Silva</h3>
-                            <small class="post">/ Cake Specialist</small>
+                            <h3 class="testimonial-title">Birthday Cake</h3>
+                            <!--<small class="post">/ Cake Specialist</small>-->
+                        </div>
+                    </div>
+
+                    <div class="testimonial">
+                        <div class="testimonial-pic">
+                            <img src="img/testimonial4.jpg" alt="" class="img-circle">
+                        </div>
+                        <div class="testimonial-content">
+                            <p class="description">
+                                &ldquo;Mamii bondiaaa. Eiiiiiii Master wah, Mi no por lagee bisabo, Hopi dushi bo mansa ta i alles.&rdquo;
+                            </p>
+                            <h3 class="testimonial-title">Birthday Cake</h3>
+                            <!--<small class="post">/ Cake Specialist</small>-->
                         </div>
                     </div>
                 </div>

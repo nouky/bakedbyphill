@@ -10,7 +10,7 @@
         <div class="text-center col-md-12">
             <ul class="nav nav-pills cat text-center" role="tablist" id="gallerytab">
                 <li class="active"><a href="#" data-toggle="tab" data-filter="*">All</a>
-                <li><a href="#" data-toggle="tab" data-filter=".cakes">Cakes & Pies</a></li>
+                <li><a href="#" data-toggle="tab" data-filter=".cakes">Cakes</a></li>
                 <li><a href="#" data-toggle="tab" data-filter=".sweets">Other Sweets</a></li>
             </ul>
         </div>
@@ -19,7 +19,7 @@
             <div class="col-md-12 wow fadeInUp">
                 <div id="lightbox">
                     <!-- Image 1 -->
-                    <div class="sweets col-lg-4 col-sm-6 col-md-6">
+                    <div class="cakes col-lg-4 col-sm-6 col-md-6">
                         <div class="isotope-item">
                             <div class="gallery-thumb">
                                 <img class="img-responsive" src="img/gallery1.jpg" alt="">
@@ -41,7 +41,7 @@
                         </div>
                     </div>
                     <!-- Image 3 -->
-                    <div class="cakes col-lg-4 col-sm-6 col-md-6">
+                    <div class="sweets col-lg-4 col-sm-6 col-md-6">
                         <div class="isotope-item">
                             <div class="gallery-thumb">
                                 <img class="img-responsive" src="img/gallery3.jpg" alt="">
@@ -52,7 +52,7 @@
                         </div>
                     </div>
                     <!-- Image 4 -->
-                    <div class="sweets col-lg-4 col-sm-6 col-md-6">
+                    <div class="cakes col-lg-4 col-sm-6 col-md-6">
                         <div class="isotope-item">
                             <div class="gallery-thumb">
                                 <img class="img-responsive" src="img/gallery4.jpg" alt="">
@@ -63,7 +63,7 @@
                         </div>
                     </div>
                     <!-- Image 5 -->
-                    <div class="sweets col-lg-4 col-sm-6 col-md-6">
+                    <div class="cakes col-lg-4 col-sm-6 col-md-6">
                         <div class="isotope-item">
                             <div class="gallery-thumb">
                                 <img class="img-responsive" src="img/gallery5.jpg" alt="">
@@ -74,7 +74,7 @@
                         </div>
                     </div>
                     <!-- Image 6 -->
-                    <div class="cakes col-lg-4 col-sm-6 col-md-6">
+                    <div class="sweets col-lg-4 col-sm-6 col-md-6">
                         <div class="isotope-item">
                             <div class="gallery-thumb">
                                 <img class="img-responsive" src="img/gallery6.jpg" alt="">
@@ -85,7 +85,7 @@
                         </div>
                     </div>
                     <!-- Image 7 -->
-                    <div class="cakes col-lg-4 col-sm-6 col-md-6">
+                    <div class="sweets col-lg-4 col-sm-6 col-md-6">
                         <div class="isotope-item">
                             <div class="gallery-thumb">
                                 <img class="img-responsive" src="img/gallery7.jpg" alt="">
@@ -96,7 +96,7 @@
                         </div>
                     </div>
                     <!-- Image 8 -->
-                    <div class="sweets col-lg-4 col-sm-6 col-md-6">
+                    <div class="cakes col-lg-4 col-sm-6 col-md-6">
                         <div class="isotope-item">
                             <div class="gallery-thumb">
                                 <img class="img-responsive" src="img/gallery8.jpg" alt="">
@@ -107,7 +107,7 @@
                         </div>
                     </div>
                     <!-- Image 9 -->
-                    <div class="cakes col-lg-4 col-sm-6 col-md-6">
+                    <div class="sweets col-lg-4 col-sm-6 col-md-6">
                         <div class="isotope-item">
                             <div class="gallery-thumb">
                                 <img class="img-responsive" src="img/gallery9.jpg" alt="">
@@ -118,7 +118,7 @@
                         </div>
                     </div>
                     <!-- Image 10 -->
-                    <div class="sweets col-lg-4 col-sm-6 col-md-6">
+                    <div class="cakes col-lg-4 col-sm-6 col-md-6">
                         <div class="isotope-item">
                             <div class="gallery-thumb">
                                 <img class="img-responsive" src="img/gallery10.jpg" alt="">
@@ -129,7 +129,7 @@
                         </div>
                     </div>
                     <!-- Image 11 -->
-                    <div class="cakes col-lg-4 col-sm-6 col-md-6">
+                    <div class="sweets col-lg-4 col-sm-6 col-md-6">
                         <div class="isotope-item">
                             <div class="gallery-thumb">
                                 <img class="img-responsive" src="img/gallery11.jpg" alt="">
@@ -140,7 +140,7 @@
                         </div>
                     </div>
                     <!-- Image 12 -->
-                    <div class="sweets col-lg-4 col-sm-6 col-md-6">
+                    <div class="cakes col-lg-4 col-sm-6 col-md-6">
                         <div class="isotope-item">
                             <div class="gallery-thumb">
                                 <img class="img-responsive" src="img/gallery12.jpg" alt="">

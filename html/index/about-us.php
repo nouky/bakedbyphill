@@ -8,21 +8,24 @@
         </div>
         <!-- Text -->
         <div class="row">
-            <div class="col-lg-8 col-sm-12">
-                <h3>Baking Delicious cakes since 1990</h3>
-                <p>Placerat a ultricies a, posuere a nibh. Fusce mollis imperdiet interdum donec eget metus auguen unc
-                    vel mauris ultricies, vest ibulum orci eget,Ibu lum orci eget, viverra elit. Aliquam erat volut pat phas ellus ac
-                    sodales felis tiam non Doloreiur qui commolu ptatemp dolupta orem retibusam
-                    andigen Ibu lum orci eget, viverra elit. Aliquam erat volut pat phas ellus ac sodales felis tiam non metus.
+            <div class="col-sm-12">
+                <h3>My journey as a baker</h3>
+                <p>
+                    Baked by Phill is a young entrepreneur who started her business in 2019 to bring a delicious taste
+                    of cake, sweets, snacks and baked goods for all of you.
                 </p>
-                <p>Placerat a ultricies a, posuere a nibh. Fusce mollis imperdiet interdum donec eget metus auguen unc vel mauris ultricies, vest ibulum orci eget,Fusce mollis imperdiet interdum donec eget metus auguen unc vel lorem ispuet Ibu lum orci eget, viverra elit liquam erat volut pat phas ellus ac sodales Lorem ipsum dolor sit amet, consectetur adipisicing elit uasi quidem minus id omnis.
+                <p>
+                    I started baking when I was 10 years old, my mom taught me every step of it. I was baking for fun
+                    for family members and friends till 2019. In 2019 i made a cake that everyone on my “Snapchat” loved
+                    and that gave me the courage to start baking as a bussines. I was only 19 years old.
+                </p>
+                <p>
+                    I really love baking, it gives me peace. When I’m baking I feel so relaxed and in my <a class="hidden-link" href="/orders.php" target="_self">own</a> world.
                 </p>
             </div>
-            <!-- /col-lg-8 -->
+            <!--
             <div class="col-lg-4 col-sm-12">
-                <!-- Accordion -->
                 <div class="panel-group" id="accordion">
-                    <!-- Question 1 -->
                     <div class="panel">
                         <div class="panel-heading">
                             <h5 class="panel-title">
@@ -37,7 +40,6 @@
                             </div>
                         </div>
                     </div>
-                    <!-- Question 2 -->
                     <div class="panel">
                         <div class="panel-heading">
                             <h5 class="panel-title">
@@ -52,7 +54,6 @@
                             </div>
                         </div>
                     </div>
-                    <!-- Question 3 -->
                     <div class="panel">
                         <div class="panel-heading">
                             <h5 class="panel-title">
@@ -68,9 +69,8 @@
                         </div>
                     </div>
                 </div>
-                <!-- /.accordion -->
             </div>
-            <!-- /col-lg-4 -->
+             -->
         </div>
         <!-- /row -->
         <div id="owl-icons" class="owl-carousel features-icon">
@@ -80,7 +80,6 @@
                     <i class="flaticon-electric-mixer"></i>
                     <div class="media-body">
                         <h5>Made With Love</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
                     </div>
                 </div>
             </div>
@@ -90,7 +89,6 @@
                     <i class="flaticon-gingerbread"></i>
                     <div class="media-body">
                         <h5>Seasonal Pastries</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
                     </div>
                 </div>
             </div>
@@ -100,17 +98,6 @@
                     <i class="flaticon-food-5"></i>
                     <div class="media-body">
                         <h5>Event Catering</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-sm-12">
-                <!-- item4 -->
-                <div class="media text-center">
-                    <i class="flaticon-wheat"></i>
-                    <div class="media-body">
-                        <h5>Gluten Free Options</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
                     </div>
                 </div>
             </div>
@@ -120,7 +107,6 @@
                     <i class="flaticon-food-12"></i>
                     <div class="media-body">
                         <h5>100% Homemade</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
                     </div>
                 </div>
             </div>
@@ -130,14 +116,17 @@
             <div class="col-lg-4 box">
                 <h6>Our Features</h6>
                 <ul class="no-margin">
-                    <li>Aliquam erat volut pat. </li>
-                    <li>Ibu lum orci eget, viverra elit. Aliquam erat volut pat phas ellus ac
-                        sodales felis
-                    </li>
-                    <li>Aliquam erat volut pat phas ellu, lorem ipsuet.</li>
-                    <li>Lorem ipsum Aliquam erat volut pat phas ellu lorem ipsuet.</li>
-                    <li>Ipsum Aliquam erat volut pat phas ellu lorem ipsuet Ibu lum orci eget, Aliquam erat volut pat phas ellus ac viverra elit.</li>
-                    <li>Aliquam erat volut pat phas ellu, lorem ipsuet.</li>
+                    <li>Using fresh and quality ingredients in baking</li>
+                    <li>Providing quality and taste in baked goods</li>
+                    <li>Variety is the king</li>
+                    <li>Different types of flavour choices</li>
+                    <li>Delivery choices</li>
+                    <li>Affordable prices</li>
+                    <li>Discount on Loyalty Card</li>
+                    <li>Gift Voucher</li>
+                    <li>Customer support services</li>
+                    <li>Made with love</li>
+
                 </ul>
             </div>
             <!-- /col-lg-7 -->

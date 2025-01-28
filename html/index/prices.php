@@ -1,126 +1,48 @@
-<!-- Parallax object -->
-<div class="parallax-object hidden-sm hidden-xs hidden-md"
-     data-100-start="transform:rotate(-0deg); left:3%;margin-top:-100px;"
-     data-center="transform:rotate(-370deg);">
-    <!-- Image -->
-    <img src="img/cake2.png" alt="">
-</div>
-
 <!-- Section Prices -->
-<section id="prices">
+<section id="prices" class="color-section2">
     <div class="container">
-        <!-- Section Heading -->
+        <!-- Section heading -->
         <div class="section-heading">
             <h2>Our Prices</h2>
             <div class="hr"></div>
         </div>
-        <div class="row">
-            <!-- Price Table 1 -->
-            <div class='package col-md-4 col-sm-12'>
-                <div class='package-name'>
-                    <h5>Basic Event</h5>
-                </div>
-                <div class='package-price'>$100</div>
-                <ul>
-                    <li>
-                        <strong>20</strong>
-                        Pastries
-                    </li>
-                    <li>
-                        <strong>2</strong>
-                        cakes
-                    </li>
-                    <li>
-                        <strong>30</strong>
-                        Cupcakes
-                    </li>
-                    <li>
-                        Perfect for Small Events
-                    </li>
-                    <li>
-                        Serves up to 20 people
-                    </li>
+        <div class="col-md-12">
+            <div class="col-md-12 no-padding">
+                <!-- required for floating -->
+                <!-- Nav tabs -->
+                <ul class="nav nav-tabs">
+                    <li class="active"><a href="#tab1" data-toggle="tab">Cakes</a></li>
+                    <li><a href="#tab2" data-toggle="tab">Snacks</a></li>
+                    <li><a href="#tab-frozen" data-toggle="tab">Frozen Snacks</a></li>
+                    <li><a href="#tab3" data-toggle="tab">Other</a></li>
                 </ul>
-                <!-- Button -->
-                <div class="page-scroll">
-                    <a class="btn" href="#contact">
-                        <div class="btn-line"></div>
-                        <div class="btn-line btn-line-shift"></div>
-                        Contact
-                    </a>
-                </div>
             </div>
-            <div class='package featured-package col-md-4 col-sm-12 res-margin'>
-                <div class='package-name'>
-                    <h5>Medium Event</h5>
+            <div class="col-md-12 no-padding">
+                <!-- Tab panes -->
+                <div class="tab-content">
+                    <div class="tab-pane active in fade" id="tab1">
+                        <?php include "prices-cakes.php"; ?>
+                    </div>
+
+                    <div class="tab-pane fade" id="tab2">
+                        <?php include "prices-snacks.php"; ?>
+                    </div>
+
+                    <div class="tab-pane fade" id="tab-frozen">
+                        <?php include "prices-frozen.php"; ?>
+                    </div>
+
+                    <div class="tab-pane fade" id="tab3">
+                        <?php include "prices-other.php"; ?>
+                    </div>
+                    <!-- /tab-pane -->
                 </div>
-                <div class='package-price'>$250</div>
-                <ul>
-                    <li>
-                        <strong>50</strong>
-                        Pastries
-                    </li>
-                    <li>
-                        <strong>6</strong>
-                        cakes
-                    </li>
-                    <li>
-                        <strong>70</strong>
-                        Cupcakes
-                    </li>
-                    <li>
-                        Perfect for Medium Events
-                    </li>
-                    <li>
-                        Serves up to 50 people
-                    </li>
-                </ul>
-                <!-- Button -->
-                <div class="page-scroll">
-                    <a class="btn" href="#contact">
-                        <div class="btn-line"></div>
-                        <div class="btn-line btn-line-shift"></div>
-                        Contact
-                    </a>
-                </div>
+                <!-- /tab-content-->
             </div>
-            <div class='package col-md-4 col-sm-12 res-margin'>
-                <div class='package-name'>
-                    <h5>Mega Event</h5>
-                </div>
-                <div class='package-price'>$550</div>
-                <ul>
-                    <li>
-                        <strong>100</strong>
-                        Pastries
-                    </li>
-                    <li>
-                        <strong>10</strong>
-                        cakes
-                    </li>
-                    <li>
-                        <strong>130</strong>
-                        Cupcakes
-                    </li>
-                    <li>
-                        Perfect for Large Events
-                    </li>
-                    <li>
-                        Serves up to 100 people
-                    </li>
-                </ul>
-                <!-- Button -->
-                <div class="page-scroll">
-                    <a class="btn" href="#contact">
-                        <div class="btn-line"></div>
-                        <div class="btn-line btn-line-shift"></div>
-                        Contact
-                    </a>
-                </div>
-            </div>
+            <!-- /col-md-10 -->
         </div>
-        <!-- /row -->
+        <!-- /.row -->
     </div>
-    <!--/container -->
+    <!-- /container -->
 </section>
-<!-- / section-->
+<!-- /Section -->

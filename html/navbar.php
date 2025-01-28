@@ -1,3 +1,9 @@
+<?php
+
+$index_href = isset($notindex) && $notindex ? "index.php" : "";
+
+?>
+
 <!-- Navbar -->
 <nav class="navbar navbar-custom navbar-fixed-top"  id="navbar-custom">
     <div class="container">
@@ -15,22 +21,22 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="navbar-brand">
             <ul class="nav navbar-nav page-scroll navbar-right">
-                <li><a href="">TEST - 456</a></li>
-                <li><a href="#page-top">Home</a></li>
-                <li><a href="#about">About us</a></li>
-                <li class="dropdown">
+                <li><a href="<?php echo $index_href; ?>#page-top">Home</a></li>
+                <li><a href="<?php echo $index_href; ?>#prices">Prices</a></li>
+                <li><a href="<?php echo $index_href; ?>#about">About us</a></li>
+                <!--<li class="dropdown">
                     <a class="dropdown-toggle" data-toggle="dropdown" href="#">Blog<b class="caret"></b></a>
                     <ul class="dropdown-menu">
-                        <li><a href="#blog-preview">Blog Preview</a></li>
-                        <li><a href="blog.html">Blog Home</a></li>
-                        <li><a href="blog-post.html">Blog Post</a></li>
+                        <li><a href="<?php echo $index_href; ?>#blog-preview">Blog Preview</a></li>
+                        <li><a href="blog.php">Blog Home</a></li>
+                        <li><a href="blog-post.php">Blog Post</a></li>
                     </ul>
-                </li>
-                <li><a href="#menu">Menu</a></li>
-                <li><a href="#gallery">Gallery</a></li>
-                <li><a href="#prices">Prices</a></li>
-                <li><a href="#team">Team</a></li>
-                <li><a href="#contact">Contact</a></li>
+                </li>-->
+
+                <li><a href="<?php echo $index_href; ?>#gallery">Gallery</a></li>
+                <li><a href="<?php echo $index_href; ?>#specials">Specials</a></li>
+                <li><a href="<?php echo $index_href; ?>#contact">Order</a></li>
+                <!--<li><a href="http://preview.themeforest.net/item/piece-of-cake-responsive-html5-template/full_screen_preview/17847772">Sample</a></li>-->
             </ul>
         </div>
         <!-- /.navbar-collapse -->

@@ -8,16 +8,9 @@
         <div class="row">
             <div class="col-lg-5 col-lg-offset-7 col-md-12 text-center">
                 <!-- Section heading -->
-                <h3>100 cakes to Choose from</h3>
-                <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non numquam eius modi tempora incidunt ut labor.</p>
+                <h3>Ask for our Loyalty Card</h3>
+                <p>With our loyalty card you will receive a stamp for every purchase of NAF 50. When the loyalty card is full, you will receive 20% discount</p>
                 <!-- Button -->
-                <div class="page-scroll">
-                    <a class="btn" href="#contact">
-                        <div class="btn-line"></div>
-                        <div class="btn-line btn-line-shift"></div>
-                        Send us a message
-                    </a>
-                </div>
                 <!-- /page-scroll -->
             </div>
             <!-- /col-lg-5-->

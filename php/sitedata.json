@@ -1,0 +1,204 @@
+{
+    "sections": [
+		{
+			"prices":[
+				{
+					"cakesAddon" :[
+						{
+							"name":"Alcohol",
+							"price1":10,
+							"price2":20
+						},						
+						{
+							"name":"HBD Cake topper",
+							"price1":5,
+							"price2":null
+						},	
+						{
+							"name":"Customized cake topper starting at",
+							"price1":20,
+							"price2":null
+						},	
+						{
+							"name":"Macaroons",
+							"price1":2,
+							"price2":null
+						},	
+						{
+							"name":"Owel",
+							"price1":15,
+							"price2":null
+						},	
+						{
+							"name":"Ferrero",
+							"price1":5,
+							"price2":null
+						},	
+						{
+							"name":"Fondant",
+							"price1":50,
+							"price2":75
+						},	
+						{
+							"name":"Layers of fruit",
+							"price1":10,
+							"price2":15
+						}
+					],
+					"cakesCake" : [
+						{
+							"name":"Bolo Manteka",
+							"price1":65,
+							"price2":100,
+							"price3":150
+						},
+						{
+							"name":"Bolo Chukulati",
+							"price1":75,
+							"price2":110,
+							"price3":160
+						},
+						{
+							"name":"Bolo Pruimu",
+							"price1":95,
+							"price2":135,
+							"price3":180
+						},
+						{
+							"name":"Bolo di Pistacho",
+							"price1":95,
+							"price2":135,
+							"price3":180
+						},
+						{
+							"name":"Bolo di Ponche Crema",
+							"price1":95,
+							"price2":135,
+							"price3":180
+						},
+						{
+							"name":"Oreo Cake",
+							"price1":75,
+							"price2":110,
+							"price3":160
+						},
+						{
+							"name":"Koko",
+							"price1":75,
+							"price2":110,
+							"price3":160
+						},
+						{
+							"name":"Red Velvet",
+							"price1":75,
+							"price2":110,
+							"price3":160
+						},
+						{
+							"name":"Strawberry",
+							"price1":75,
+							"price2":110,
+							"price3":160
+						},
+						{
+							"name":"Bolo Kashupete",
+							"price1":95,
+							"price2":135,
+							"price3":180
+						}
+					],
+					"snacks" : [
+						{
+							"name":"Soesjes plain",
+							"price":1
+						},
+						{
+							"name":"Soesjes Tuna",
+							"price":1.65
+						},
+						{
+							"name":"Soesjes Ham/Keshi",
+							"price":1.75
+						},
+						{
+							"name":"Kroket",
+							"price":1.9
+						},
+						{
+							"name":"Soshesirol",
+							"price":1.40
+						},
+						{
+							"name":"Pikabal",
+							"price":1.65
+						},
+						{
+							"name":"Kaasbal",
+							"price":1.75
+						},
+						{
+							"name":"Webu yena",
+							"price":1.75
+						},
+						{
+							"name":"Omelet",
+							"price":1.80
+						}
+					],
+					"frozenSnacks" : [
+						{
+							"name":"Frozen Kroket (6 pieces)",
+							"price":10
+						},
+						{
+							"name":"Frozen Kaasbal (10 pieces)",
+							"price":15
+						},
+						{
+							"name":"Frozen Soseshirol (10 pieces)",
+							"price":12.50
+						}
+					],	
+					"other" : [
+						{
+							"name":"Oreo Cheesecake (10 inch)",
+							"price":70
+						},
+						{
+							"name":"Strawberry cheesecake (10 inch)",
+							"price":70
+						},
+						{
+							"name":"Mango cheesecake (10 inch)",
+							"price":70
+						},
+						{
+							"name":"Cherry cheesecake (10 inch)",
+							"price":70
+						},
+						{
+							"name":"Cupcake",
+							"price":2.75
+						},
+						{
+							"name":"Mini Cupcake",
+							"price":2
+						},
+						{
+							"name":"Cake in a jar",
+							"price":6.75
+						},
+						{
+							"name":"Cakebites",
+							"price":3.25
+						},
+						{
+							"name":"Ko&#39;i lechi",
+							"price":3.25
+						}						
+					]				
+				}
+			]
+		}
+	]
+}

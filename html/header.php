@@ -1,3 +1,11 @@
+<?php
+
+include_once "php/config.php";
+include_once "php/formelements.php";
+include_once "php/elements.php";
+
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,7 +17,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <!-- Page title -->
-    <title>Piece of Cake - HTML Theme</title>
+    <title>:: <?php echo $sitename; ?> ::</title>
     <!--[if lt IE 9]>
     <script src="js/respond.js"></script>
     <![endif]-->
@@ -27,9 +35,28 @@
     <link href="styles/sweet.css" rel="stylesheet">
     <!-- CSS Plugins -->
     <link rel="stylesheet" href="css/plugins.css">
+    <link rel="stylesheet" href="css/custom.css">
+    <link rel="stylesheet" href="css/modal.css">
     <!-- Favicons-->
     <link rel="apple-touch-icon" sizes="72x72" href="apple-icon-72x72.png">
     <link rel="apple-touch-icon" sizes="114x114" href="apple-icon-114x114.png">
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 </head>
 <body id="page-top" data-spy="scroll" data-target=".navbar-custom">
+<?php
+
+include_once "navbar.php";
+
+?>
+
+<!-- Preloader -->
+<div id="loading">
+    <div id="loading-center">
+        <div id="loading-center-absolute">
+            <div class="object-load" id="object_one"></div>
+            <div class="object-load" id="object_two"></div>
+            <div class="object-load" id="object_three"></div>
+        </div>
+    </div>
+</div>
+<!-- /preloader -->

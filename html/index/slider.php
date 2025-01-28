@@ -4,7 +4,7 @@
     <div class="slider-control left inactive"></div>
     <div class="slider-control right"></div>
     <ul class="slider-pagi"></ul>
-    <!--Slider -->
+
     <div class="slider">
         <!-- Slide 0 -->
         <div class="slide slide-0 active">
@@ -26,15 +26,15 @@
                   </svg>
                 <!--Title -->
                 <div class="slide__text">
-                    <h1><span>Welcome to</span><br>Piece of cake</h1>
+                    <h1><span>Welcome to</span><br>Baked by Phill</h1>
                     <div class="hidden-xs hidden-sm hidden-md">
-                        <p class="subtitle">A HTML Template with the perfect design for your website, It Includes beautiful ilustrations and useful features.</p>
+                        <p class="subtitle">I’m Philles, the baker of Baked by Phill. My goal is to make your life easier by ordering online.</p>
                         <div class="page-scroll">
                             <!-- Button -->
                             <a class="btn" href="#contact">
                                 <div class="btn-line"></div>
                                 <div class="btn-line btn-line-shift"></div>
-                                Contact us
+                                Place order
                             </a>
                         </div>
                     </div>
@@ -66,13 +66,13 @@
                 <div class="slide__text">
                     <h1><span>We Love</span><br>Cupcakes</h1>
                     <div class="hidden-xs hidden-sm hidden-md">
-                        <p class="subtitle">Non metus ali quam eros eget liquam erat volutpat phasellus ac sodales felis lorem ipsuet lorens.</p>
+                        <p class="subtitle">Have a taste of our delicious cupcakes, with different kind of flavours.</p>
                         <div class="page-scroll">
                             <!-- Button -->
                             <a class="btn" href="#contact">
                                 <div class="btn-line"></div>
                                 <div class="btn-line btn-line-shift"></div>
-                                Contact us
+                                Place order
                             </a>
                         </div>
                     </div>
@@ -104,13 +104,13 @@
                 <div class="slide__text">
                     <h1><span>We make cakes for</span><br>Your event</h1>
                     <div class="hidden-xs hidden-sm hidden-md">
-                        <p class="subtitle">Non metus ali quam eros eget liquam erat volutpat phasellus ac sodales felis lorem ipsuet lorens.</p>
+                        <p class="subtitle">Have you already decided, what kind of cake you would like to order?</p>
                         <div class="page-scroll">
                             <!-- Button -->
                             <a class="btn" href="#contact">
                                 <div class="btn-line"></div>
                                 <div class="btn-line btn-line-shift"></div>
-                                Contact us
+                                Place order
                             </a>
                         </div>
                     </div>
@@ -140,15 +140,15 @@
                   </svg>
                 <!--Title -->
                 <div class="slide__text">
-                    <h1><span>Try our amazing</span><br>Macarons</h1>
+                    <h1><span>Try our amazing</span><br>Snacks</h1>
                     <div class="hidden-xs hidden-sm hidden-md">
-                        <p class="subtitle">Non metus ali quam eros eget liquam erat volutpat phasellus ac sodales felis lorem ipsuet lorens.</p>
+                        <p class="subtitle">We make different kind of snacks just for you.</p>
                         <div class="page-scroll">
                             <!-- Button -->
                             <a class="btn" href="#contact">
                                 <div class="btn-line"></div>
                                 <div class="btn-line btn-line-shift"></div>
-                                Contact us
+                                Place order
                             </a>
                         </div>
                     </div>
